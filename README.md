@@ -10,4 +10,4 @@ The code requires Python ≥ 3.6 and scientific packages `numpy`, `scipy`, and `
 
 The typical criteria (from Rouquerol et al., _Is the BET Equation Applicable to Microporous Adsorbents?_) for fitting are automatically checked, and the quality of the least-square linear fit (_R_<sup>2</sup> coefficient) is displayed. Both the BET function and the Rouquerol function are also plotted for visual confirmation of the fit.
 
-![](example.png|width=500px)
+<img src="example.png" width="500">
